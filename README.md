@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋 I'm Achord1
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=achord1&show_icons=true&count_private=true" alt="Achord1 GitHub stats" align="right" />
+</a>
+
 
 <!--
 **achord1/achord1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
