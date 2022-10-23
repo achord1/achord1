@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Achord1
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=achord1&show_icons=true&count_private=true" alt="Achord1 GitHub stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=achord1&show_icons=true&count_private=true&theme=blue-green" alt="Achord1 GitHub stats" align="right" />
 </a>
 
 
